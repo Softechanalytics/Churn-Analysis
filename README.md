@@ -23,7 +23,8 @@ This project is a Power BI dashboard designed to analyze customer behaviour and 
 - Machine Learning Model (Optional — for churn prediction scoring)
 
 ## Dashboard Snapshots
-(You can add screenshots of key dashboard pages here.)
+![Bank Churn Dashboard](![image](https://github.com/user-attachments/assets/327479c5-01ba-44d0-8d79-bffce7db085f)
+
 
 ## How to Use
 1. Clone or download the repository.
